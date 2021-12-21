@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;700&family=Palette+Mosaic&family=Roboto:wght@100&display=swap');
+* {
+    font-family: 'Roboto',sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(194, 177, 255);
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 3px solid blue;
+    background-color: rgb(214, 216, 241);
+    color:blue;
+    font-size: 20pt;
+    font-weight: 600;
+    text-align:center;
+}
+
+#counter {
+    display: flex;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
