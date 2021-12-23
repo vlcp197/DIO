@@ -1,10 +1,10 @@
 # DIO
 
-Repositório criado para realizar os exercícios do curso **Introdução ao Javascript** da Digital Innovation One  
+Repositório criado para realizar os exercícios do curso ***Introdução ao Javascript*** da ***Digital Innovation One***  
 
 Links:  
-[DIO](https://www.dio.me/)
+[*Digital Innovation One*](https://www.dio.me/)
 
 ---
 
-![DIO]()
+![DIO](https://github.com/vlcp197/DIO/blob/master/dio.jpeg)
